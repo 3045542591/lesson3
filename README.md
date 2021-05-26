@@ -1,1 +1,2 @@
-# lesson3
+# rust-learn
+learn Rust
